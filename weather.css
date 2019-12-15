@@ -23,7 +23,7 @@
     pointer-events: none;
     
     background: transparent repeat;
-    background-size: 1024px 1024px;
+    background-size: 256px 1024px;
     -ms-interpolation-mode: nearest-neighbor;
     image-rendering: -webkit-optimize-contrast;
     image-rendering: -webkit-crisp-edges;
